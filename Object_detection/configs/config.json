@@ -1,0 +1,5 @@
+{
+    "RAD_folder_path": "/home/hawk/Desktop/data/Raddet/train/RAD/part_9",
+    "stereo_folder_path": "/home/hawk/Desktop/data/Raddet/train/stereo_image/part_9",
+    "GT_folder_path": "/home/hawk/Desktop/data/Raddet/train/gt/part_9"
+}
