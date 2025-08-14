@@ -1,0 +1,7 @@
+# Ignore dataset files
+src/OOD_GUI/data/
+*.tar.gz
+*.zip
+*.pkl
+*.npy
+*.h5
